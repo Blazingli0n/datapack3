@@ -1,0 +1,2 @@
+data modify storage datapack3:leaderboard text.extra append value {"text":"\n"}
+data modify storage datapack3:leaderboard text.extra append value {"text":"","extra":[{"score":{"name":"*","objective":"lb_board_rank"},"color":"gray"},{"text":". ","color":"gray"},{"selector":"@s","color":"white"},{"text":" ("},{"score":{"name":"*","objective":"lb_money_int"}},{"text":"."},{"score":{"name":"*","objective":"lb_money_frac_tens"}},{"score":{"name":"*","objective":"lb_money_frac_ones"}},{"text":"$)"}]}
