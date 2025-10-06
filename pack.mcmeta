@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 26,
+    "pack_format": 41,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 48
+    },
     "description": "Leaderboards from scoreboards v4.0"
   }
 }
